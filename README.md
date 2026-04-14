@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/demo.svg" width="800" alt="demo" />
+  <img src="https://raw.githubusercontent.com/AYMENJD/statly/refs/heads/main/assets/demo.svg" width="800" alt="demo" />
   <br/><br/>
   <strong>statly</strong> is a lightweight tool for analyzing Git commit activity
   <br/><br/>
